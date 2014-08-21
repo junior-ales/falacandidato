@@ -3,10 +3,10 @@
   <channel>
     <title>Fala Candidato</title>
     <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
-    <link>http://yourdomain.com/falacandidato/</link>
-    <atom:link href="http://yourdomain.com/falacandidato/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 20 Aug 2014 04:32:59 -0300</pubDate>
-    <lastBuildDate>Wed, 20 Aug 2014 04:32:59 -0300</lastBuildDate>
+    <link>http://junior-ales.github.io/falacandidato/</link>
+    <atom:link href="http://junior-ales.github.io/falacandidato/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Thu, 21 Aug 2014 00:36:02 -0300</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2014 00:36:02 -0300</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
@@ -17,8 +17,8 @@
 &lt;iframe class=&quot;luciana&quot; width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/JcYNlnehIG4?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 </description>
         <pubDate>Tue, 19 Aug 2014 23:52:12 -0300</pubDate>
-        <link>http://yourdomain.com/falacandidato/2014/08/19/19-de-agosto/</link>
-        <guid isPermaLink="true">http://yourdomain.com/falacandidato/2014/08/19/19-de-agosto/</guid>
+        <link>http://junior-ales.github.io/falacandidato/2014/08/19/19-de-agosto/</link>
+        <guid isPermaLink="true">http://junior-ales.github.io/falacandidato/2014/08/19/19-de-agosto/</guid>
         
         
       </item>
