@@ -1,11 +1,11 @@
 # Site settings
 title: Fala Candidato
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+email: sela-roinuj@hotmail.com
+description: "Fala Candidato é um agregador de vídeos das propagandas eleitorais gratuitas de televisão e que tem como intuito ajudar o eleitor a comparar as propostas e escutar o que os candidatos a Presidência da República tem a dizer."
 baseurl: "/falacandidato"
 url: "http://junior-ales.github.io"
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: junior_ales
+github_username:  junior-ales
 
 # Build settings
 markdown: kramdown

@@ -7,7 +7,12 @@
     <div class="footer-col-1 column">
       <ul>
         <li>{{ site.title }}</li>
-        <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+        <li><a href="mailto:{{ site.email }}" target="_blank">{{ site.email }}</a></li>
+        <li>
+          <p class="rss-subscribe">
+            subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}" target="_blank">via RSS</a>
+          </p>
+        </li>
       </ul>
     </div>
 
