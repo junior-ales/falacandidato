@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Fala Candidato</title>
-    <description>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.</description>
+    <description>Fala Candidato é um agregador de vídeos das propagandas eleitorais gratuitas de televisão e que tem como intuito ajudar o eleitor a comparar as propostas e escutar o que os candidatos a Presidência da República tem a dizer.</description>
     <link>http://junior-ales.github.io/falacandidato/</link>
     <atom:link href="http://junior-ales.github.io/falacandidato/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Thu, 21 Aug 2014 02:17:28 -0300</pubDate>
-    <lastBuildDate>Thu, 21 Aug 2014 02:17:28 -0300</lastBuildDate>
+    <pubDate>Thu, 21 Aug 2014 02:54:35 -0300</pubDate>
+    <lastBuildDate>Thu, 21 Aug 2014 02:54:35 -0300</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
