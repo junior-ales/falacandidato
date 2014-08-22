@@ -5,13 +5,16 @@
     <description>Fala Candidato é um agregador de vídeos das propagandas eleitorais gratuitas de televisão e que tem como intuito ajudar o eleitor a comparar as propostas e escutar o que os candidatos a Presidência da República tem a dizer.</description>
     <link>http://junior-ales.github.io/falacandidato/</link>
     <atom:link href="http://junior-ales.github.io/falacandidato/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Fri, 22 Aug 2014 00:53:03 -0300</pubDate>
-    <lastBuildDate>Fri, 22 Aug 2014 00:53:03 -0300</lastBuildDate>
+    <pubDate>Fri, 22 Aug 2014 00:55:53 -0300</pubDate>
+    <lastBuildDate>Fri, 22 Aug 2014 00:55:53 -0300</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
     
       <item>
         <title>21 de Agosto</title>
-        <description>
+        <description>&lt;div id=&quot;dilma&quot; class=&quot;bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/qHRGIoKwrIA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div id=&quot;marina&quot; class=&quot;bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/hJPlZPqiVQA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div id=&quot;aecio&quot; class=&quot;bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/m9DRxFwYCOg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div id=&quot;luciana&quot; class=&quot;bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/qKV4g6qYAjQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
 </description>
         <pubDate>Thu, 21 Aug 2014 20:59:12 -0300</pubDate>
         <link>http://junior-ales.github.io/falacandidato/2014/08/21/21-de-agosto/</link>
