@@ -10,3 +10,4 @@ github_username:  junior-ales
 # Build settings
 markdown: kramdown
 permalink: pretty
+exclude: ["Gemfile", "Gemfile.lock", "README.md", "deploy.sh"]
