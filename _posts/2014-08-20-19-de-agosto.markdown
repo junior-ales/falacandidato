@@ -4,7 +4,7 @@ title:  "19 de Agosto"
 date:   2014-08-20 02:52:12
 ---
 
-<iframe class="dilma" width="560" height="315" src="//www.youtube.com/embed/uZCT-hxpnwA" frameborder="0" allowfullscreen></iframe>
-<iframe class="marina" width="420" height="315" src="//www.youtube.com/embed/MuXUo13Sx7Y?rel=0" frameborder="0" allowfullscreen></iframe>
-<iframe class="aecio" width="560" height="315" src="//www.youtube.com/embed/2cSHAn8gAG4?rel=0" frameborder="0" allowfullscreen></iframe>
-<iframe class="luciana" width="560" height="315" src="//www.youtube.com/embed/JcYNlnehIG4?rel=0" frameborder="0" allowfullscreen></iframe>
+<div id="dilma" class="bt-video-container">{% youtube uZCT-hxpnwA %}</div>
+<div id="marina" class="bt-video-container">{% youtube MuXUo13Sx7Y %}</div>
+<div id="aecio" class="bt-video-container">{% youtube 2cSHAn8gAG4 %}</div>
+<div id="luciana" class="bt-video-container">{% youtube JcYNlnehIG4 %}</div>
