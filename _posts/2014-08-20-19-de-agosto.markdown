@@ -4,7 +4,7 @@ title:  "19 de Agosto"
 date:   2014-08-20 02:52:12
 ---
 
-<div id="dilma" class="bt-video-container">{% youtube uZCT-hxpnwA %}</div>
-<div id="marina" class="bt-video-container">{% youtube MuXUo13Sx7Y %}</div>
-<div id="aecio" class="bt-video-container">{% youtube 2cSHAn8gAG4 %}</div>
-<div id="luciana" class="bt-video-container">{% youtube JcYNlnehIG4 %}</div>
+<div class="dilma bt-video-container">{% youtube uZCT-hxpnwA %}</div>
+<div class="marina bt-video-container">{% youtube MuXUo13Sx7Y %}</div>
+<div class="aecio bt-video-container">{% youtube 2cSHAn8gAG4 %}</div>
+<div class="luciana bt-video-container">{% youtube JcYNlnehIG4 %}</div>

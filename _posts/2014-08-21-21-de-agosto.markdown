@@ -4,7 +4,7 @@ title:  "21 de Agosto"
 date:   2014-08-21 23:59:12
 ---
 
-<div id="dilma" class="bt-video-container">{% youtube qHRGIoKwrIA %}</div>
-<div id="marina" class="bt-video-container">{% youtube hJPlZPqiVQA %}</div>
-<div id="aecio" class="bt-video-container">{% youtube m9DRxFwYCOg %}</div>
-<div id="luciana" class="bt-video-container">{% youtube qKV4g6qYAjQ %}</div>
+<div class="dilma bt-video-container">{% youtube qHRGIoKwrIA %}</div>
+<div class="marina bt-video-container">{% youtube hJPlZPqiVQA %}</div>
+<div class="aecio bt-video-container">{% youtube m9DRxFwYCOg %}</div>
+<div class="luciana bt-video-container">{% youtube qKV4g6qYAjQ %}</div>
