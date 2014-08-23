@@ -22,45 +22,6 @@
   .wrap {
     padding: 0 12px;
   }
-  .site-nav {
-    position: fixed;
-    z-index: 10;
-    top: 14px;
-    right: 8px;
-    background-color: white;
-    -webkit-border-radius: 5px;
-    -moz-border-radius: 5px;
-    border-radius: 5px;
-    border: 1px solid #e8e8e8;
-    .menu-icon {
-      display: block;
-      font-size: 24px;
-      color: #505050;
-      float: right;
-      width: 36px;
-      text-align: center;
-      line-height: 36px;
-      svg {
-        width: 18px;
-        height: 16px;
-      }
-    }
-    .trigger {
-      clear: both;
-      margin-bottom: 5px;
-      display: none;
-    }
-    &:hover .trigger {
-      display: block;
-    }
-    .page-link {
-      display: block;
-      text-align: right;
-      line-height: 1.25;
-      padding: 5px 10px;
-      margin: 0;
-    }
-  }
   .post-header h1 {
     font-size: 36px;
   }
