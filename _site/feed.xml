@@ -5,9 +5,23 @@
     <description>Fala Candidato é um agregador de vídeos das propagandas eleitorais gratuitas de televisão e que tem como intuito ajudar o eleitor a comparar as propostas e escutar o que os candidatos a Presidência da República tem a dizer.</description>
     <link>http://junior-ales.github.io/falacandidato/</link>
     <atom:link href="http://junior-ales.github.io/falacandidato/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Wed, 27 Aug 2014 22:30:47 -0300</pubDate>
-    <lastBuildDate>Wed, 27 Aug 2014 22:30:47 -0300</lastBuildDate>
+    <pubDate>Wed, 27 Aug 2014 22:43:03 -0300</pubDate>
+    <lastBuildDate>Wed, 27 Aug 2014 22:43:03 -0300</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>26 de Agosto</title>
+        <description>&lt;div class=&quot;dilma bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/5gqxmGW8BYs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;marina bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/zURewey1XeA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;aecio bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/R6WxUA4XvVY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;luciana bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/jHloJpzm2gE?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+</description>
+        <pubDate>Wed, 27 Aug 2014 19:37:34 -0300</pubDate>
+        <link>http://junior-ales.github.io/falacandidato/2014/08/27/26-de-agosto/</link>
+        <guid isPermaLink="true">http://junior-ales.github.io/falacandidato/2014/08/27/26-de-agosto/</guid>
+        
+        
+      </item>
     
       <item>
         <title>23 de Agosto</title>
