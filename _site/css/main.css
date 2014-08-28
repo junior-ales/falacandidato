@@ -26,7 +26,7 @@ a, a:visited {
 
 /* Utility */
 .wrap {
-  max-width: 800px;
+  max-width: 1000px;
   padding: 0 30px;
   margin: 0 auto;
   zoom: 1; }
@@ -370,6 +370,15 @@ a, a:visited {
   .site-title:visited {
     font-size: 55px;
     line-height: 55px; } }
+@media screen and (max-width: 480px) {
+  .posts .bt-video-container iframe, .posts .bt-video-container object, .posts .bt-video-container embed {
+    width: 250px;
+    height: 150px; }
+
+  .latest-post-content, .slick-list {
+    height: 150px;
+    margin-top: 10px;
+    margin-bottom: 10px; } }
 /* Slider */
 .slick-slider {
   position: relative;
