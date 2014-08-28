@@ -22,6 +22,10 @@ a, a:visited {
   &:hover   { color: $main-color; text-decoration: underline; }
 }
 
+#mobile-indicator {
+  display: none;
+}
+
 /* Utility */
 
 .wrap {

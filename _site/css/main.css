@@ -24,6 +24,9 @@ a, a:visited {
     color: #333;
     text-decoration: underline; }
 
+#mobile-indicator {
+  display: none; }
+
 /* Utility */
 .wrap {
   max-width: 1000px;
@@ -371,14 +374,18 @@ a, a:visited {
     font-size: 55px;
     line-height: 55px; } }
 @media screen and (max-width: 480px) {
-  .posts .bt-video-container iframe, .posts .bt-video-container object, .posts .bt-video-container embed {
-    width: 250px;
-    height: 150px; }
+  #mobile-indicator {
+    display: block; }
+
+  .posts .bt-video-container {
+    margin-top: 15px;
+    margin-bottom: 15px; }
+    .posts .bt-video-container iframe, .posts .bt-video-container object, .posts .bt-video-container embed {
+      width: 100%;
+      height: 100%; }
 
   .latest-post-content, .slick-list {
-    height: 150px;
-    margin-top: 10px;
-    margin-bottom: 10px; } }
+    height: 100%; } }
 /* Slider */
 .slick-slider {
   position: relative;
