@@ -22,4 +22,17 @@
     font-size: 15px;
     color: #818181;
   }
+
+  .bt-video-container {
+    iframe, object, embed {
+      width:300px;
+      height:200px;
+    }
+  }
+}
+
+.latest-post-content, .slick-list {
+  height: 200px;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
