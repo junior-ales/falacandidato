@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "28 de Agosto"
+date:   2014-09-01 23:13:49
+---
+
+<div class="dilma bt-video-container">{% youtube 4kzOKfD4wOs %}</div>
+<div class="marina bt-video-container">{% youtube wX4HS1Tcl0Q %}</div>
+<div class="aecio bt-video-container">{% youtube HZQHVcsbQG4 %}</div>
+<div class="luciana bt-video-container">{% youtube IQWqBOECa2w %}</div>
