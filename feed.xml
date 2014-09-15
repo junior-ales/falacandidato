@@ -5,9 +5,23 @@
     <description>Fala Candidato é um agregador de vídeos das propagandas eleitorais gratuitas de televisão e que tem como intuito ajudar o eleitor a comparar as propostas e escutar o que os candidatos a Presidência da República tem a dizer.</description>
     <link>http://junior-ales.github.io/falacandidato/</link>
     <atom:link href="http://junior-ales.github.io/falacandidato/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 Sep 2014 23:04:22 -0300</pubDate>
-    <lastBuildDate>Sun, 14 Sep 2014 23:04:22 -0300</lastBuildDate>
+    <pubDate>Sun, 14 Sep 2014 23:10:24 -0300</pubDate>
+    <lastBuildDate>Sun, 14 Sep 2014 23:10:24 -0300</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>06 de Setembro</title>
+        <description>&lt;div class=&quot;dilma bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/558ujsdUVMg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;marina bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/mxU4z7N93Vg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;aecio bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/W3z9biOQpSg?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;luciana bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/bvN_x72VvTs?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sat, 06 Sep 2014 17:36:48 -0300</pubDate>
+        <link>http://junior-ales.github.io/falacandidato/2014/09/06/06-de-setembro/</link>
+        <guid isPermaLink="true">http://junior-ales.github.io/falacandidato/2014/09/06/06-de-setembro/</guid>
+        
+        
+      </item>
     
       <item>
         <title>04 de Setembro</title>
