@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "13 de Setembro"
+date:   2014-09-13 20:24:53
+---
+
+<div class="dilma bt-video-container">{% youtube nW7bPqo_lO0 %}</div>
+<div class="marina bt-video-container">{% youtube 6QBSB5ZbQ3c %}</div>
+<div class="aecio bt-video-container">{% youtube ONuPNPUIreY %}</div>
+<div class="luciana bt-video-container">{% youtube Mk79NCuCYMw %}</div>
