@@ -5,9 +5,23 @@
     <description>Fala Candidato é um agregador de vídeos das propagandas eleitorais gratuitas de televisão e que tem como intuito ajudar o eleitor a comparar as propostas e escutar o que os candidatos a Presidência da República tem a dizer.</description>
     <link>http://junior-ales.github.io/falacandidato/</link>
     <atom:link href="http://junior-ales.github.io/falacandidato/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Sun, 14 Sep 2014 23:23:03 -0300</pubDate>
-    <lastBuildDate>Sun, 14 Sep 2014 23:23:03 -0300</lastBuildDate>
+    <pubDate>Sun, 14 Sep 2014 23:29:13 -0300</pubDate>
+    <lastBuildDate>Sun, 14 Sep 2014 23:29:13 -0300</lastBuildDate>
     <generator>Jekyll v2.2.0</generator>
+    
+      <item>
+        <title>13 de Setembro</title>
+        <description>&lt;div class=&quot;dilma bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/nW7bPqo_lO0?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;marina bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/6QBSB5ZbQ3c?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;aecio bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/ONuPNPUIreY?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;div class=&quot;luciana bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/Mk79NCuCYMw?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+</description>
+        <pubDate>Sat, 13 Sep 2014 17:24:53 -0300</pubDate>
+        <link>http://junior-ales.github.io/falacandidato/2014/09/13/13-de-setembro/</link>
+        <guid isPermaLink="true">http://junior-ales.github.io/falacandidato/2014/09/13/13-de-setembro/</guid>
+        
+        
+      </item>
     
       <item>
         <title>11 de Setembro</title>
@@ -131,20 +145,6 @@
         <pubDate>Mon, 25 Aug 2014 16:48:34 -0300</pubDate>
         <link>http://junior-ales.github.io/falacandidato/2014/08/25/23-de-agosto/</link>
         <guid isPermaLink="true">http://junior-ales.github.io/falacandidato/2014/08/25/23-de-agosto/</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>21 de Agosto</title>
-        <description>&lt;div class=&quot;dilma bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/qHRGIoKwrIA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;marina bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/hJPlZPqiVQA?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;aecio bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/cvwNwVu55SQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-&lt;div class=&quot;luciana bt-video-container&quot;&gt;&lt;iframe width=&quot;480&quot; height=&quot;360&quot; src=&quot;http://www.youtube.com/embed/qKV4g6qYAjQ?rel=0&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
-</description>
-        <pubDate>Thu, 21 Aug 2014 20:59:12 -0300</pubDate>
-        <link>http://junior-ales.github.io/falacandidato/2014/08/21/21-de-agosto/</link>
-        <guid isPermaLink="true">http://junior-ales.github.io/falacandidato/2014/08/21/21-de-agosto/</guid>
         
         
       </item>
